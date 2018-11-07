@@ -31,5 +31,5 @@ None at the moment.
 
 ## Authors
 
-* Jeffery Cen - www.jefferycen.com
+* Jeffery Cen - [GitHub](https://github.com/JCatt), [Portfolio](www.jefferycen.com), [LinkedIn](https://www.linkedin.com/in/jefferycen/)
 * Alexander Sullivan - [GitHub](https://github.com/ASully), [Twitter](https://twitter.com/alexjsully), [ORCiD](https://orcid.org/0000-0002-4463-4473), [LinkedIn](https://www.linkedin.com/in/alexanderjsullivan/)
