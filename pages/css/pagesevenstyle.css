@@ -3,7 +3,7 @@
     font-weight: bold;
     font-size: 2.5em;
     position: relative;
-    margin-top: 15%;
+    margin-top: 13%;
 }
 
 .button {
@@ -21,39 +21,22 @@
     font-weight: bold;
 }
 
-.imgCent {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.imgGif {
-    width: 30%; 
-}
-
-.imgStill {
-    width: 30%;
-    margin-top: 2%;
-}
-
-.imgCard {
-    width: 48%;
-}
-
-.imgWall {
+.img {
     width: 60%;
-    padding-top: 2%
-}
-
-.carousel {
+    height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
-    position: relative;
-    margin-top: 1%;
-    margin-bottom: 3%;
-} 
+}
+
+.img2 {
+    width: 60%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2%;
+}
 
 .foot {
     text-align: center;
