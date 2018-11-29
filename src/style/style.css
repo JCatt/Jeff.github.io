@@ -136,3 +136,10 @@
     display: inline-block;
     color: #f37871;
 }
+
+.ig {
+    width: 15%;
+    padding-top: 2%;
+    display: block;
+    margin: 0 auto;
+}
